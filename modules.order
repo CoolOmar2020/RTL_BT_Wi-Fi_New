@@ -1,0 +1,15 @@
+kernel//home/ria/wtv/rtlwifi_new/rtlwifi.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl_pci.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl_usb.ko
+kernel//home/ria/wtv/rtlwifi_new/btcoexist/btcoexist.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8188ee/rtl8188ee.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8192c/rtl8192c-common.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8192ce/rtl8192ce.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8192cu/rtl8192cu.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8192de/rtl8192de.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8192ee/rtl8192ee.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8192se/rtl8192se.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8723ae/rtl8723ae.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8723com/rtl8723-common.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8723be/rtl8723be.ko
+kernel//home/ria/wtv/rtlwifi_new/rtl8821ae/rtl8821ae.ko
